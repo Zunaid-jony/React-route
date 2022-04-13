@@ -1,0 +1,27 @@
+.friedId{
+    border-color: 3px solid rgb(129, 85, 211);
+    
+    width: 50%;
+    height: 50%;
+    margin-left: 350px;
+    border-radius: 10px 25px 10px 25px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 10px;
+}
+.friedId2{
+    background-image: linear-gradient(rgb(82, 111, 240) ,rgb(255, 21, 216));
+    height: 30px;
+    width: 90px;
+    border-radius: 7px 11px 7px 11px;
+    border-color: rgb(238, 95, 12);
+    margin-bottom: 10px;
+    
+    color: white;
+
+}
+/* .friedId{
+    display: grid;
+    grid-template-columns: repeat(1fr) ;
+    grid-gap: 20px;
+    margin: 30px;
+} */

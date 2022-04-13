@@ -1,0 +1,23 @@
+.nav{
+     background-image: linear-gradient(rgb(41, 6, 235), rgb(116, 48, 241)); 
+     height: 35px;
+     
+
+    
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    gap: 10px;
+    float: left;
+    display: block;
+    padding: 8px;
+    
+}
+.nav Link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.nav a:hover{
+    color: rgb(88, 235, 124);
+}
